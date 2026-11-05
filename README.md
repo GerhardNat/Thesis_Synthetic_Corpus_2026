@@ -6,7 +6,7 @@ Analysis notebook for the mini-thesis **"Anti-Forensic Techniques in Encrypted M
 * **Researcher:** Gerhard Uundjondjo (226111989)
 * **Supervisor:** Mr Isaac Nhamu
 * **Institution:** Department of Cyber Security, Faculty of Computing and Informatics, NUST
-* **Notebook:** `Thesis\_Synthetic\_Corpus\_.ipynb` (final version)
+* **Notebook:** `Thesis\_Synthetic\_Corpus.ipynb` (final version)
 
 \---
 
